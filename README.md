@@ -1,6 +1,7 @@
 # Audi Templates
 
 The Audi UI Kit as Sketch template.
+http://www.audi.com/ci/
 
 ## Dependencies
 
